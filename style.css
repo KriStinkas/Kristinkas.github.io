@@ -29,6 +29,14 @@ body {
   line-height: 1.4;
   margin: 0;
 }
+.p {
+    display: block;
+    margin-block-start: 10em;
+    margin-block-end: 11em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
 
 .links {
   width: 320px;
